@@ -1,0 +1,12 @@
+{
+  "name": "gherkin-pt-br",
+  "version": "1.0",
+  "description": "Gherkin PT-BR language support to Atom",
+  "repository": "https://github.com/danielgimenes/atom-gherkin-pt-br",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.50.0"
+  },
+  "dependencies": {
+  }
+}
